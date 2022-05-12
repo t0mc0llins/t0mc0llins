@@ -15,13 +15,12 @@ I love building new things and solving complex problems, one line of code at a t
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
 </p>
 
-### :bulb: Current projects
+### :bulb: Projects
 
 ### [Hike EU](https://hike-eu.netlify.app/)
 [client](https://github.com/t0mc0llins/frontend-hike-eu)
    [server](https://github.com/t0mc0llins/backend-hike-eu)
 
-### :bulb: Completed projects
 ### [The Movie Quiz](https://moviequizgame.netlify.app/)
 [client](https://github.com/t0mc0llins/quiz-frontend)
    [server](https://github.com/t0mc0llins/movie-quiz-backend)
