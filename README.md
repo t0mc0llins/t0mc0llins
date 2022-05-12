@@ -19,11 +19,9 @@ I love building new things and solving complex problems, one line of code at a t
 
 ### [Hike EU](https://hike-eu.netlify.app/)
 [client](https://github.com/t0mc0llins/frontend-hike-eu)
-
-[server](https://github.com/t0mc0llins/backend-hike-eu)
+   [server](https://github.com/t0mc0llins/backend-hike-eu)
 
 ### :bulb: Completed projects
 ### [The Movie Quiz](https://moviequizgame.netlify.app/)
 [client](https://github.com/t0mc0llins/quiz-frontend)
-
-[server](https://github.com/t0mc0llins/movie-quiz-backend)
+   [server](https://github.com/t0mc0llins/movie-quiz-backend)
