@@ -23,9 +23,7 @@ I love building new things and solving complex problems, one line of code at a t
 
 ### [Hike EU](https://hike-eu.netlify.app/)
 
-This is a site where users can browse hiking routes and post their own trails using interactive mapping and blogging features!
-
-Hike EU is a full stack app with the frontend built in React and a backend that uses NodeJS and Express.
+Hike EU is a full stack app where users can browse hiking routes and post their own trails using interactive mapping and blogging features!
 
 [client](https://github.com/t0mc0llins/frontend-hike-eu) |
    [server](https://github.com/t0mc0llins/backend-hike-eu)
