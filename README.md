@@ -30,7 +30,7 @@ Hike EU is a full stack app where users can browse hiking routes and post their 
 
 ### [The Movie Quiz](https://moviequizgame.netlify.app/)
 
-A app which generates a randomized movie trivia quiz using a movie database API.
+An app which generates a randomized movie trivia quiz using a movie database API.
 
 [client](https://github.com/t0mc0llins/quiz-frontend) |
    [server](https://github.com/t0mc0llins/movie-quiz-backend)
