@@ -21,7 +21,7 @@ I love building new things and solving complex problems, one line of code at a t
 
 ### :bulb: Projects
 
-### [Hike EU](https://hike-eu.netlify.app/ target="_blank")
+### [Hike EU](https://hike-eu.netlify.app/)
 
 Hike EU is a full stack app where users can browse hiking routes and post their own trails using interactive mapping and blogging features!
 
