@@ -32,8 +32,6 @@ These are the languages, libraries, and frameworks which I currently work with.
   <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" width="8%" alt="Sequelize logo">
 </p>
 
----
-
 ## :bulb: Projects
 
 ### [Hike EU](https://hike-eu.netlify.app/)
