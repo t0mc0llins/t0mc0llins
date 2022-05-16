@@ -40,7 +40,7 @@ Hike EU is a full stack app where users can browse hiking routes and post their 
 
 You can login with email: test@test.com and password: test1234 if you would like to try out the hiking route creation features.
 
-Check out the client repository to see a demonstration.
+Check out the [client repository](https://github.com/t0mc0llins/frontend-hike-eu) to see a demonstration.
 
 <p align="left">
    <img src="https://i.imgur.com/Ku7PGhX.png" width="45%" alt="Hike EU homepage">
