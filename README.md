@@ -22,7 +22,8 @@ I love building new things and solving complex problems, one line of code at a t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="8%" alt="Express logo"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="8%" alt="NPM logo" />
 </p>
-### :bulb: Projects
+
+## :bulb: Projects
 
 ### [Hike EU](https://hike-eu.netlify.app/)
 
