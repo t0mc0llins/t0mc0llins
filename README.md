@@ -51,5 +51,7 @@ Check out the client repository to see a demonstration.
 
 An app which generates a randomized movie trivia quiz using a movie database API.
 
+<img src="https://i.imgur.com/JKfbIYY.png" width="50%" alt="Movie Quiz hompage">
+
 [client](https://github.com/t0mc0llins/quiz-frontend) |
    [server](https://github.com/t0mc0llins/movie-quiz-backend)
