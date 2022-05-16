@@ -40,7 +40,7 @@ Hike EU is a full stack app where users can browse hiking routes and post their 
 
 <p align="left">
    <img src="https://i.imgur.com/Ku7PGhX.png" width="45%" alt="Hike EU homepage">
-   <img src="https://i.imgur.com/mCXfkGx.png" width="46%" alt="Hike EU mapping">
+   <img src="https://i.imgur.com/mCXfkGx.png" width="45%" alt="Hike EU mapping">
 </p>
 
 [client](https://github.com/t0mc0llins/frontend-hike-eu) |
