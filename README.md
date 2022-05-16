@@ -47,7 +47,7 @@ Check out the client repository to see a demonstration.
 [client](https://github.com/t0mc0llins/frontend-hike-eu) |
    [server](https://github.com/t0mc0llins/backend-hike-eu)
    
-----
+--
 
 ### [The Movie Quiz](https://moviequizgame.netlify.app/)
 
