@@ -20,6 +20,7 @@ I love building new things and solving complex problems, one line of code at a t
   <img src="https://user-images.githubusercontent.com/31222514/149943049-95f0909a-9c2b-4fae-bd04-647d531dd10d.png" width="8%" alt="NODE logo">
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="8%" alt="Express logo"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="8%" alt="NPM logo" />
 </p>
 ### :bulb: Projects
 
