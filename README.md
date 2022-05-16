@@ -3,7 +3,9 @@ My name is Tom and I'm a full stack JavaScript developer. I'm from the UK and I 
 
 I love building new things and solving complex problems, one line of code at a time.
 
-## 🤖 Technologies
+## 🤖 Preferred technologies
+
+These are the languages, libraries, and frameworks which I currently work with.
 
 ### General
 
