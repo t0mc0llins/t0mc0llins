@@ -49,7 +49,7 @@ Check out the client repository to see a demonstration.
 
 ### [The Movie Quiz](https://moviequizgame.netlify.app/)
 
-An app which generates a randomized movie trivia quiz using a movie database API.
+An app which generates randomized movie trivia quizes using a movie database API.
 
 <img src="https://i.imgur.com/JKfbIYY.png" width="50%" alt="Movie Quiz hompage">
 
