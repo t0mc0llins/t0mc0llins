@@ -38,6 +38,8 @@ These are the languages, libraries, and frameworks which I currently work with.
 
 Hike EU is a full stack app where users can browse hiking routes and post their own trails using interactive mapping and blogging features!
 
+You can login with email: test@test.com and password: test1234 if you would like to try out the hiking route creation features.
+
 Check out the client repository to see a demonstration.
 
 <p align="left">
