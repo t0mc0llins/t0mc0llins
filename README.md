@@ -39,8 +39,8 @@ These are the languages, libraries, and frameworks which I currently work with.
 Hike EU is a full stack app where users can browse hiking routes and post their own trails using interactive mapping and blogging features!
 
 <p align="left">
-   <img src="https://i.imgur.com/Ku7PGhX.png" width="50%" alt="Hike EU homepage">
-   <img src="https://i.imgur.com/mCXfkGx.png" width="50%" alt="Hike EU mapping">
+   <img src="https://i.imgur.com/Ku7PGhX.png" width="45%" alt="Hike EU homepage">
+   <img src="https://i.imgur.com/mCXfkGx.png" width="45%" alt="Hike EU mapping">
 </p>
 
 [client](https://github.com/t0mc0llins/frontend-hike-eu) |
