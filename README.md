@@ -21,7 +21,7 @@ These are the languages, libraries, and frameworks which I currently work with.
   <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="8%" alt="CSS logo">
   <img src="https://user-images.githubusercontent.com/31222514/149814154-3de042e2-bccf-4f0e-8d0e-98a2dbcae7c0.png" width="8%" alt="HTML logo">
   <img src="https://user-images.githubusercontent.com/31222514/160580699-d782fd3f-4e09-4d92-895c-d9867302e145.svg" width="8%" alt="Redux logo">
-  <img src="https://avatars.githubusercontent.com/u/33663932?v=4&s=400" width="8%" alt="MUI logo">
+  <img src="https://mui.com/static/logo.png" width="8%" alt="MUI logo">
 </p>
 
 ### Back-end
