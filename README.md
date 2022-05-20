@@ -1,7 +1,9 @@
 ## Hi there 👋
 My name is Tom and I'm a full stack JavaScript developer. I'm from the UK and I came to Amsterdam about a year ago.
 
-I love building new things and solving complex problems, one line of code at a time.
+I love building things and solving complex problems.
+
+I'm always keen to develop my skills and learn new skills, currently I'm working on improving my knowledge of TypeScript and GraphQL.
 
 ## 🤖 Preferred technologies
 
