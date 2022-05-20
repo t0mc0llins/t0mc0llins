@@ -3,7 +3,7 @@ My name is Tom and I'm a full stack JavaScript developer. I'm from the UK and I 
 
 I love building things and solving complex problems.
 
-I'm always keen to develop my skills and learn new skills, currently I'm working on improving my knowledge of TypeScript and GraphQL.
+I'm always keen to develop myself and learn new skills, currently I'm working on improving my knowledge of TypeScript and GraphQL.
 
 ## 🤖 Preferred technologies
 
